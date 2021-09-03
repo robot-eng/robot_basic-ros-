@@ -19,3 +19,6 @@ sudo apt-get install raspi-config
 ```
 #### raspi-config 🍒
 > Select `Interfacing Options` then Camera and press Enter. Choose Yes then Ok. Go to Finish and you’ll be prompted to reboot.
+##### raspicam_node
+> download from : https://github.com/UbiquityRobotics/raspicam_node
+> lssues : https://github.com/UbiquityRobotics/raspicam_node/issues/102
