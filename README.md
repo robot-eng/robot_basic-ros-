@@ -10,3 +10,4 @@ sudo chmod g+rw /dev/gpiomem
 ```
 # camera v2.1 raspberry pi
 #### open camera
+> deb http://archive.raspberrypi.org/debian/ buster main
