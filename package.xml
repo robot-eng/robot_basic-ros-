@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>blink-192</name>
+  <name>motor_ros</name>
   <version>0.0.0</version>
-  <description>The blink-192 package</description>
+  <description>The motor_ros package</description>
 
-  <maintainer email="theokanning@gmail.com">ubuntu</maintainer>
+  <maintainer email="kookyour52@gmail.com">ubuntu</maintainer>
 
   <license>MIT</license>
 
-  <author email="theokanning@gmail.com">Theo Kanning</author>
+  <author email="kookyour52@gmail.com">Theo Kanning</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
