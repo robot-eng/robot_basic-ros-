@@ -9,4 +9,4 @@ sudo chown root:ubuntu /dev/gpiomem
 sudo chmod g+rw /dev/gpiomem
 ```
 # camera v2.1 raspberry pi
-##### open camera
+#### open camera
