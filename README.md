@@ -10,4 +10,7 @@ sudo chmod g+rw /dev/gpiomem
 ```
 # camera v2.1 raspberry pi
 #### open camera
-> deb http://archive.raspberrypi.org/debian/ buster main
+>add deb http://archive.raspberrypi.org/debian/ buster main 
+```
+echo "deb http://archive.raspberrypi.org/debian/ buster main" >>/etc/apt/sources.list
+```
