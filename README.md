@@ -8,3 +8,4 @@ sudo pip3 install RPi.GPIO, sudo pip install RPi.GPIO
 sudo chown root:ubuntu /dev/gpiomem
 sudo chmod g+rw /dev/gpiomem
 ```
+# camera v2.1 raspberry pi
