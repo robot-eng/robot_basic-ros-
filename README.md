@@ -17,3 +17,5 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 7FA3303E
 sudo apt update
 sudo apt-get install raspi-config
 ```
+##### raspi-config 
+> Select Interfacing Options then Camera and press Enter. Choose Yes then Ok. Go to Finish and you’ll be prompted to reboot.
