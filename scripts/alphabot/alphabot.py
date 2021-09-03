@@ -3,7 +3,7 @@ import time
 
 class AlphaBot(object):
 	
-	def __init__(self,in1=12,in2=13,ena=6,in3=20,in4=21,enb=26):
+	def __init__(self,in1=22,in2=27,ena=17,in3=24,in4=25,enb=18):
 		self.IN1 = in1
 		self.IN2 = in2
 		self.IN3 = in3
