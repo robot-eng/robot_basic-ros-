@@ -1,4 +1,8 @@
 # Robot_Basic
+#### SSH
+```
+arp -na | grep -i "b8:27:eb"
+```
 #### install RPi.GPIO in raspberry pi4 OS Ubuntu
 ```
 sudo pip3 install RPi.GPIO, sudo pip install RPi.GPIO
