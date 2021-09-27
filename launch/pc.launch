@@ -1,3 +1,0 @@
-<launch>
-    <node name="keyboard_driver" pkg="motor_ros" type="keyboard_driver.py" />
-</launch>
