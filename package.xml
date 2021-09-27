@@ -4,11 +4,11 @@
   <version>0.0.0</version>
   <description>The motor_ros package</description>
 
-  <maintainer email="******@gmail.com">ubuntu</maintainer>
+  <maintainer email="kookyour52@gmail.com">ubuntu</maintainer>
 
   <license>MIT</license>
 
-  <author email="******@gmail.com">Theo Kanning</author>
+  <author email="kookyour52@gmail.com">Theo Kanning</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
